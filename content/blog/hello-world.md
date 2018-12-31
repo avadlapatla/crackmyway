@@ -1,15 +1,17 @@
 +++
-author = ""
+author = "Abhinav"
 categories = [""]
-date = ""
-description = ""
+tags = [""]
+date = 2018-12-31
+description = "Sample Hugo Post"
 featured = ""
 featuredalt = ""
-featuredpath = ""
+featuredpath = "date"
 linktitle = ""
 title = "Hello World"
 type = "post"
 
 +++
 
-Hello World, Welcome to my blog
+
+Hello This is Sample Hugo Post.
